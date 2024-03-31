@@ -13,7 +13,7 @@ GurpreetKaur181/GurpreetKaur181 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hii, I am [Gurpreet Kaur](https://github.com/Lovish-Goyal)! <a href="https://github.com/Lovish-Goyal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hii, I am [Gurpreet Kaur](https://github.com/GurpreetKaur181)! <a href="https://github.com/GurpreetKaur181"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/lovish-goyal-3b3902237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lovish-Goyal" height="30" width="40" /></a>
 &nbsp;
@@ -42,11 +42,7 @@ That's why I like to make things that make a difference.
 - 💪 This is where I write, code, and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Lovish-Goyal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/19345058/lovish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Lovish-Goyal" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/goyallovish1727" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Lovish-Goyal" height="30" width="40" /></a>
+<a href="https://github.com/GurpreetKaur181" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
 &nbsp;
 
 ---
