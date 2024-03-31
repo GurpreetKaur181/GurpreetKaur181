@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hii, I am [Gurpreet Kaur](https://github.com/GurpreetKaur181)! <a href="https://github.com/GurpreetKaur181"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/lovish-goyal-3b3902237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lovish-Goyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lovish-goyal-3b3902237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gurpreet Kaur" height="30" width="40" /></a>
 &nbsp;
 
 ## Glad to see you here! &nbsp;
@@ -35,8 +35,8 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [AWS](https://aws.amazon.com/free/?gclid=CjwKCAjw17qvBhBrEiwA1rU9w3WTW2rW1Xkh8REqkAQir2fZCONKWo7U8pCbPxW2BOOOemO88wIynRoCDEYQAvD_BwE&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=fb8718a7-d9f7-4e07-9fc5-b85de26b4178&sc_channel=ps&ef_id=CjwKCAjw17qvBhBrEiwA1rU9w3WTW2rW1Xkh8REqkAQir2fZCONKWo7U8pCbPxW2BOOOemO88wIynRoCDEYQAvD_BwE:G:s&s_kwcid=AL!4422!3!476942607526!e!!g!!aws%20cloud%20computing!11542865500!116152064607)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms.
-  - Cloud Computing.
+  - javascript.
+  - mern stack.
 - 📬 How to reach me: [gk9000219@gmail.com](mailto:gk9000219@gmail.com)
 - 📝 [Resume]().
 - 💪 This is where I write, code, and solve problems:
@@ -47,7 +47,6 @@ That's why I like to make things that make a difference.
 
 ---
 
-## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
 
