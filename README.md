@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hii, I am [Gurpreet Kaur](https://github.com/GurpreetKaur181)! <a href="https://github.com/GurpreetKaur181"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/Gurpreet kaur/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gurpreet Kaur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gurpreet-kaur-4aba31269/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gurpreet Kaur" height="30" width="40" /></a>
 &nbsp;
 
 ## Glad to see you here! &nbsp;
